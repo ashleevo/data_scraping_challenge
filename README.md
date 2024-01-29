@@ -1,1 +1,2 @@
 # data_scraping_challenge
+This project was accomplished using Splinter and HTML parsing with Beautiful Soup in order to scrape titles and preview text from Mars news articles and scrape and analyze Mars weather data, which exists in a table. Resources utilized in order to complete this task included resources from the Berkeley Data Analytics Program as well as resources on Stack OverFlow for error debugging.
